@@ -1,3 +1,3 @@
 # hello-world
 
-Just 'cause.
+Just 'cause. Yeah, it's that kind of repo.
